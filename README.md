@@ -1,3 +1,6 @@
 # DengDS
 练习 data structure
-前面两个是简单的两个课设项目
+主要内容
+- 两个简单的课设
+- polynomial的链表实现
+- 双链表的基本实现
