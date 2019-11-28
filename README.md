@@ -1,6 +1,5 @@
-# DengDS
-练习 data structure
-主要内容
+# DengDS Readme
+# Table of contents
 1. 两个简单的课设
 2. polynomial的链表实现
 3. 双链表的基本实现
@@ -14,3 +13,5 @@
 11. KMP算法实现
 12. 八皇后问题的算法实现
 13. 二叉树的基本实现
+14. Huffman编码树
+15. 图的基本功能实现
