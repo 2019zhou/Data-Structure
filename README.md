@@ -1,4 +1,5 @@
-# DengDS Readme
+# Data Structure
+> C++ implementation of basic data structure
 # Table of contents
 1. 两个简单的课设
 2. polynomial的链表实现
